@@ -8,6 +8,7 @@ public class Test {
 			rev = rev + s1.charAt(i);
 		}
 		System.out.println(rev);
+		System.out.println("Reddy");
 
 	}
 }
